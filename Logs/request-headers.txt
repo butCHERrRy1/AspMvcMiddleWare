@@ -1,0 +1,327 @@
+﻿=== 2026-09-29 13:26:51 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:26:51 | GET /lib/bootstrap/dist/css/bootstrap.min.css ===
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Priority: u=2
+
+=== 2026-09-29 13:26:51 | GET /lib/bootstrap/dist/js/bootstrap.bundle.min.js ===
+Accept: */*
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+=== 2026-09-29 13:26:51 | GET /js/site.js?v=hRQyftXiu1lLX2P9Ly9xa4gHJgLeR1uGN5qegUobtGo ===
+Accept: */*
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+=== 2026-09-29 13:26:51 | GET /favicon.ico ===
+Accept: image/avif,image/webp,image/png,image/svg+xml,image/*;q=0.8,*/*;q=0.5
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Sec-Fetch-Dest: image
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Priority: u=6
+
+=== 2026-09-29 13:27:10 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:10 | GET /css/site.css?v=j6fhJSuuyLpOSLuPJU0TsDV0iNjor5S3rDnvxJrt4bg ===
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Priority: u=2
+
+=== 2026-09-29 13:27:11 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:11 | GET /lib/jquery/dist/jquery.min.js ===
+Accept: */*
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+
+=== 2026-09-29 13:27:11 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:11 | GET /AspMvcMiddleWare.styles.css?v=9DLMwBroeTMB_M4zVYHkdbH6VG51_zpTaMLLke1D0qQ ===
+Accept: text/css,*/*;q=0.1
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Sec-Fetch-Dest: style
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: same-origin
+Priority: u=2
+
+=== 2026-09-29 13:27:11 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:12 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:12 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:12 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:13 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:13 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:13 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:14 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:14 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:14 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:14 | GET / ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/Home/Privacy
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
+=== 2026-09-29 13:27:15 | GET /Home/Privacy ===
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Connection: keep-alive
+Host: localhost:5001
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:156.0) Gecko/20100101 Firefox/156.0
+Accept-Encoding: gzip, deflate, br, zstd
+Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7
+Referer: http://localhost:5001/
+Upgrade-Insecure-Requests: 1
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-User: ?1
+Priority: u=0, i
+
